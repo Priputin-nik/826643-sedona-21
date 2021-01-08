@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Check status][check-image]][check-url]
 
 * Студент: [Никита Припутин](https://up.htmlacademy.ru/adaptive/21/user/826643).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Поданев](https://up.htmlacademy.ru/adaptive/21/user/63947).
 
 ---
 
